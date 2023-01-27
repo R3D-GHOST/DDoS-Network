@@ -7,8 +7,4 @@ echo "Un saludo familia "
 sleep 1
 echo "Instalando"
 sleep 1
-apt install slowhttptest
-
-pacman -S slowhttptest
-
-
+sudo apt install slowhttptest
